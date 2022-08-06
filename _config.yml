@@ -7,9 +7,9 @@ relative_permalinks: false
 encoding: utf-8
 
 # Setup
-title:               My Website
+title:               Hyunsoo Hong
 #tagline:             'foo's website
-description:         Foo's blog...
+description:         Hyunsoo Hong's personal homepage...
 url: https://lanyon-plus.sbamin.com
 baseurl: ""
 urlimg: https://lanyon-plus.sbamin.com/images/
