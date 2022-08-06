@@ -85,7 +85,7 @@ links:
   #- title: <i class="iconside iconm-quill"></i> Research
   - title: <i class="fa fa-book"></i> Research
     url: /blog/
-  - title: <i class="fa fa-tags"></i> Publication
+  - title: <i class="fa fa-file-text"></i> Publication
     url: /publication/
   #- title: <i class="fa fa-archive"></i> Archive
   #  url: /archive/
