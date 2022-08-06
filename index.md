@@ -5,7 +5,7 @@ title: Personal Homepage of Hyunsoo Hong
 description: "Blogging on ...."
 ---
 
-## [Hyunsoo Hong]
+## About me
 
 I am a **Hyunsoo Hong**, **_Ph.D. candidate_** in the KAIST [MDAM lab.](https://mdam.kaist.ac.kr), advised by prof. Seong Su Kim. My research interests lie in the span of **composite structures**, **optimization**, and **machine learning**. I have pulished several [research papers](https://scholar.google.com/citations?user=sqkmqoQAAAAJ&hl=en&authuser=1) and presented my research in several conferences. Welcome to my website! &#x1f60a;
 
