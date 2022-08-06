@@ -9,12 +9,16 @@ description: "Blogging on ...."
 
 I am a **Hyunsoo Hong**, **_Ph.D. candidate_** in the KAIST [MDAM lab.](https://mdam.kaist.ac.kr), advised by prof. Seong Su Kim. My research interests lie in the span of **composite structures**, **optimization**, and **machine learning**. I have pulished several [research papers](https://scholar.google.com/citations?user=sqkmqoQAAAAJ&hl=en&authuser=1) and presented my research in several conferences. Welcome to my website! &#x1f60a;
 
+<br/>
 
-Based on Jekyll theme: [Lanyon](http://lanyon.getpoole.com) by [**Mark Otto**](https://github.com/mdo)
 
-* add-ons by [Samir Amin](http://sbamin.com)
-* [Site features]({{ site.url}}/disclosure#i-classfa-fa-thumbs-o-up-credits-for-site-featuresi)
-* License: Open sourced under the [MIT license](http://sbamin.com/disclosure/#theme-major-credit--license). 
 
-Maximum four posts on front page where first two posts are featured, and remaining are date sorted.
+<br/>
 
+## Contact
+
+```
+Affiliation: Mechanical Design Lab. with Advanced Materials, Department of Mechanical Engineering, Korea Advanced Institute of Science and Technology (KAIST)
+Office: 202, Pilot plat building, Department of Mechanical Engineering, KAIST 291 Daehak-ro, Yuseong-gu, Daejeon, Republic of Korea
+Email: flud159@kaist.ac.kr
+```
