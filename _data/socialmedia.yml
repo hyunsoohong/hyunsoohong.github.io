@@ -1,24 +1,26 @@
-- name: Twitter
-  url: https://twitter.com/abcd
-  class: fa fa-twitter-square
-  title: "Follow me @foo"
+#제일 밑에 바꾸기
 
-- name: Google Plus
-  url: https://plus.google.com/+foo
+#- name: Twitter
+#  url: https://twitter.com/abcd
+#  class: fa fa-twitter-square
+#  title: "Follow me @foo"
+
+- name: Googl scholar
+  url: https://scholar.google.com/citations?user=sqkmqoQAAAAJ&hl=en&authuser=1
   class: fa fa-google-plus-square
-  title: "Follow me +foo"
+  title: "Google scholar"
 
-- name: GitHub
-  url: https://github.com/xyz123abc
-  class: fa fa-github-square
-  title: Code repository
+#- name: GitHub
+#  url: https://github.com/xyz123abc
+#  class: fa fa-github-square
+#  title: Code repository
 
-- name: Contact
-  url: "/contact/"
-  class: fa fa-envelope-square
-  title: "Reach Us"
+#- name: Contact
+#  url: "/contact/"
+#  class: fa fa-envelope-square
+#  title: "Reach Us"
 
-- name: RSS
-  url: "/feed.xml"
-  class: fa fa-rss-square
-  title: "Subscribe to RSS"
+#- name: RSS
+#  url: "/feed.xml"
+#  class: fa fa-rss-square
+#  title: "Subscribe to RSS"
