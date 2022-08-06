@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Career
@@ -21,7 +20,6 @@ tags:
   - "foo boo"
   - "city tx"
 ---
-
 
 <br/>
 
@@ -60,5 +58,4 @@ tags:
 - Exchange student program, Hong Kong University of Science and Technology (HKUST), Hong Kong, 2017.06. - 2017.08.
 
 - Exchange student program, Technical University of Denmark (DTU), Denmark, 2017.09. - 2017.12.
-
 
