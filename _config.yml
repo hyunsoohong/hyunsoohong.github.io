@@ -89,7 +89,7 @@ links:
     url: /publication/
   #- title: <i class="fa fa-archive"></i> Archive
   #  url: /archive/
-  - title: <i class="iconside iconm-wordpress"></i> Google scholar
+  - title: <i class="fa fa-google"></i> Google scholar
     url: https://scholar.google.com/citations?user=sqkmqoQAAAAJ&hl=en&authuser=1
     external: true
   - title: <i class="iconside iconm-wordpress"></i> CV
