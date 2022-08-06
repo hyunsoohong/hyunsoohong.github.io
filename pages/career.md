@@ -1,9 +1,11 @@
+<!-- 
 ---
 layout: page
 title: Career
 ---
+-->
 
-<!-- 
+
 ---
 layout: page
 title: Career
@@ -26,7 +28,7 @@ tags:
   - "foo boo"
   - "city tx"
 ---
--->
+
 
 <br/>
 
