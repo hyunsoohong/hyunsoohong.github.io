@@ -82,7 +82,8 @@ links:
     url: /
   - title: <i class="iconside iconm-user"></i> Career
     url: /career/
-  - title: <i class="iconside iconm-quill"></i> Research
+  #- title: <i class="iconside iconm-quill"></i> Research
+  - title: <i class="fa fa-book"></i> Research
     url: /blog/
   - title: <i class="fa fa-tags"></i> Publication
     url: /publication/
