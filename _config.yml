@@ -80,7 +80,8 @@ owner:
 links:
   - title: <i class="iconside iconm-home"></i> Home
     url: /
-  - title: <i class="iconside iconm-user"></i> Career
+  #- title: <i class="iconside iconm-user"></i> Career
+  - title: <i class="fa fa-graduation-cap"></i> Career
     url: /career/
   #- title: <i class="iconside iconm-quill"></i> Research
   - title: <i class="fa fa-pencil-square-o"></i> Research
@@ -92,7 +93,7 @@ links:
   - title: <i class="fa fa-google"></i> Google scholar
     url: https://scholar.google.com/citations?user=sqkmqoQAAAAJ&hl=en&authuser=1
     external: true
-  - title: <i class="fa fa-id-card"></i> CV
+  - title: <i class="iconside iconm-user"></i> CV
     url: /images/emoji.png
 
   #- title: <i class="iconside iconm-envelop"></i> Contact
