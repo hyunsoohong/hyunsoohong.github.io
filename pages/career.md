@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: career
+permalink: /career/
 show_meta: true
 # imagefeature path is relative to images/ directory.
 imagefeature: foo.png
@@ -21,21 +21,42 @@ tags:
   - "city tx"
 ---
 
-<div class="post-author text-center">                       
-            <img src="{{ site.urlimg }}{{ site.owner.avatar }}" alt="{{ site.owner.name }}'s photo" itemprop="image" class="post-avatar img-circle img-responsive"/> 
-<span class="social-icons" style="padding-top: 10px; padding-bottom: 1px;">
-<a href="{{ site.url }}/cv" title="Curriculum Vitae" class="social-icons"><i class="iconm iconm-profile" style="vertical-align: top;"></i></a>
-<a href="{{ site.url }}/about/publications/" class="social-icons" title="Publications"><i class="iconm iconm-file-pdf"></i></a>
-<a href="{{ site.owner.linkedin }}" class="social-icons" title="LinkedIn profile"><i class="iconm iconm-linkedin2"></i></a>
-</span>
-</div>
+<br/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ornare lectus a purus rutrum, a hendrerit quam condimentum. Donec vel ante maximus, vulputate libero ac, rhoncus justo. Phasellus purus nisl, auctor id tristique eu, maximus quis leo. Mauris ultricies ante quis vehicula accumsan. Nulla facilisi. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut mi elit, feugiat non scelerisque eget, ultrices nec est. Morbi a est iaculis, commodo quam congue, posuere quam. Phasellus venenatis finibus eros, vitae malesuada nisl gravida vitae.
 
-Praesent ac sem quis diam fermentum fermentum. Nullam turpis metus, elementum sit amet venenatis sed, placerat eget erat. Ut convallis ipsum vitae volutpat tristique. Cras a tempor lorem, quis aliquet dui. Nunc vel leo erat. Donec posuere massa sed justo luctus, accumsan porttitor ligula laoreet. Suspendisse sit amet nisi ultrices, venenatis lorem vel, posuere turpis. Fusce eget dictum nisi. Proin eu diam nisi. Quisque ut quam quis sem tincidunt efficitur vitae nec ex. Pellentesque ut dolor eros. Ut faucibus semper ultricies. Vestibulum nec nisl in magna porttitor dictum.
+## Education
 
-Donec egestas eros arcu, id fermentum orci faucibus ac. Pellentesque facilisis elit eu tellus ultrices pulvinar. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. In ut eros et mi dapibus condimentum. Sed ante metus, porttitor ut aliquet vitae, ullamcorper quis ex. Donec ac efficitur arcu, a malesuada dolor. Nulla magna arcu, semper quis augue sed, rhoncus porta urna. Duis dictum dapibus diam, ac sodales ipsum lobortis vel. Nulla ac dictum metus. Morbi sollicitudin tortor eu diam tristique, ut tincidunt tortor euismod. Integer non tincidunt metus. In tempus sem dapibus, venenatis mi placerat, condimentum orci. Nunc et tellus diam.
+- B.S. in Mechanical Engineering, KAIST (2013.03. ~ 2018.02.)
+- M.S. in Mechanical Engineering, KAIST (2018.03. ~ 2020.02.)
+- Ph.D. in Mechanical Engineering, KAIST (2020.03. ~ Present)
+  
+  
+  
+<br>
 
-Nam imperdiet consequat lorem. Donec sagittis tortor eu dolor efficitur ullamcorper. Pellentesque dolor arcu, vestibulum quis laoreet at, tincidunt nec mauris. Praesent id laoreet arcu. Quisque blandit nunc at elit auctor, eget tempor nunc sodales. Cras venenatis lacinia tempus. Proin erat nisl, pharetra a massa volutpat, rhoncus pellentesque nisi. Mauris in elit dictum, egestas tellus et, laoreet velit. Nam auctor tempus augue sit amet fermentum. Nulla accumsan arcu quis efficitur aliquam. Nulla dapibus in neque eget facilisis. Nullam nisi augue, maximus at lectus sit amet, ornare malesuada ante. Morbi volutpat justo a urna pharetra elementum. Proin tempor ac felis ac consequat. Proin feugiat, nulla ac sagittis consequat, ante diam auctor tortor, in suscipit leo ante id dolor. Vivamus posuere pellentesque magna, sagittis blandit neque convallis sed.
+## Awards and honors
 
-*[volutpat]: Tooltip for abbreviation.
+- 국가우수장학금 (이공계), 2015-2017, 한국 장학 재단
+
+- "용매 증발 과정 중 마이크로웨이브 처리가 PVDF 필름의 결정화 형태에 미치는 영향" - 최우수 발표 논문상, **홍현수**, 김성수, 2018년도 한국복합재료학회 추계학술대회
+<br>(“Effect of microwave irradiation on conformation of crystalline of PVDF film in the solvent evaporation process” – Best paper award, **Hyunsoo Hong**, Seong Su Kim, the Korean Society for composite materials (KSCM) fall conference, 2018.)
+
+- "분자 동역학 전산모사를 이용한 TiO2 나노 입자 보강 PVDF의 결정형 변화에 관한 연구" - 우수 발표 논문상, **홍현수**, 김성수, 2019년도 한국복합재료학회 추계학술대회
+<br>(“Molecular dynamics simulations of phase transformation mechanisms in TiO2 nano-particle reinforced poly (vinylidene fluoride)” – Best paper award, **Hyunsoo Hong**, Seong Su Kim, the Korean Society for composite materials (KSCM) spring conference, 2019.)
+
+- "자체 변형 측정이 가능한 유전체 폼 코어 샌드위치 복합재료 구조" - 우수 발표 논문상, **홍현수**, 김성수, 2021년도 대한기계학회 쟈료 및 파괴 부문 춘계학술대회
+<br>(“Dielectric foam core sandwich composite structure capable of self-sensing deformation” – Best paper award, **Hyunsoo Hong**, Seong Su Kim, the Korean Society of Mechanical Engineers (KSME) spring conference, 2021.)
+
+- "자체 변형 센싱의 유전체 폼 코어 샌드위치 복합재료 구조에 대한 연구" - 최우수 발표 논문상, **홍현수**, 조현성, 김성수, 2021년도 한국복합재료학회 추계학술대회
+<br>(“A study on the self-sensing dielectric foam core sandwich composite structures” – Best paper award, **Hyunsoo Hong**, Hyeongseong Jo, Seong Su Kim, the Korean Society for composite materials (KSCM) fall conference, 2021.)
+
+
+<br>
+
+## Experiences
+
+- Exchange student program, Hong Kong University of Science and Technology (HKUST), Hong Kong, 2017.06. - 2017.08.
+
+- Exchange student program, Technical University of Denmark (DTU), Denmark, 2017.09. - 2017.12.
+
+
