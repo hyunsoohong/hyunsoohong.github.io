@@ -1,10 +1,10 @@
 ---
 layout: page
-title: career
+title: Career
 permalink: /career/
 show_meta: true
 # imagefeature path is relative to images/ directory.
-imagefeature: foo.png
+imagefeature: emoji.png
 published: true
 description: "About example.com...."
 category: views
