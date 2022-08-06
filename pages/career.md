@@ -1,6 +1,12 @@
 ---
 layout: page
 title: Career
+---
+
+<!-- 
+---
+layout: page
+title: Career
 permalink: /career/
 show_meta: true
 # imagefeature path is relative to images/ directory.
@@ -20,6 +26,7 @@ tags:
   - "foo boo"
   - "city tx"
 ---
+-->
 
 <br/>
 
