@@ -6,7 +6,7 @@ description: "Blogging on ...."
 ---
 
 <br/>
-<center><img src="/images/main.png" width="100%" height="100%"></center>
+<center><img src="/images/main.png" width="50%" height="50%"></center>
 <br/>
 
 
