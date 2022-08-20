@@ -85,7 +85,8 @@ links:
     url: /career/
   #- title: <i class="iconside iconm-quill"></i> Research
   - title: <i class="fa fa-pencil-square-o"></i> Research
-    url: /blog/
+    url: /research/
+    #url: /blog/
   - title: <i class="fa fa-file-text"></i> Publication
     url: /publication/
   #- title: <i class="fa fa-archive"></i> Archive
