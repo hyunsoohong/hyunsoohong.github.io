@@ -23,10 +23,12 @@ tags:
 
 <br/>
 
+## Prediction of ground reaction forces using the artificial neural network from capacitive self-sensing values of composite ankle springs for exo-robots
 
 
 
-They can be also found from [Google Scholar](https://scholar.google.com/citations?user=sqkmqoQAAAAJ&hl=en&authuser=1).
+
+
 
 
 
