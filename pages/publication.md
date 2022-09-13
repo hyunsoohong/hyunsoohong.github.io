@@ -44,6 +44,8 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 - Jungrak Choi, Chakyu Han, Seokjook Cho, Kyuyoung Kim, Dionisio Del Orbe, Incheol Cho, Zhi-Zun Zhao, Yong Suk Oh, **Hyunsoo Hong**, Seong su kim*, Inkyu Park*, “Customizable, conformal, and stretchable 3D electronics via predistorted pattern generation and thermoforming”, Science Advances, 2021, 10.1126
 
 - Tae-Chang Ahn, **Hyunsoo Hong**, Seong Su Kim, Hui-Yun Hwang*, “Improvement of adhesion characteristics of copper electrodes on polyvinylidene fluoride films using bovine serum albumin”, International Journal of Adhesion and Adhesives, 2022,103025
+
+- **Hyunsoo Hong**, Muhammad Salman Sarfraz, Mingoo Jeong, Taeyeon Kim, Jungrak Choi, Kyongchul Kong, Inkyu Park, Seong Su Kim*, “Prediction of ground reaction forces using the artificial neural network from capacitive self-sensing values of composite ankle springs for exo-robots”, Composite Structures, 2022 (accepted)
   
   
 #### Domestic
