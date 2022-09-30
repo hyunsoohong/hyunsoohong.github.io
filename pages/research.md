@@ -45,7 +45,7 @@ tags:
 <br/>
 
 ## Design and finite element analysis (FEA) of composite supports for self-weight support and vibration reduction for double pipe of liquefied natural gas (LNG) vessel
-<center><img src="/images/research4.png" width="100%" height="100%"></center>
+<center><img src="/images/research5.png" width="100%" height="100%"></center>
 
 
 <br/>
