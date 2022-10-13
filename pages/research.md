@@ -24,7 +24,7 @@ tags:
 <br/>
 
 ## Design optimization of arched structured-vibration isolation with high load-carrying capacity by machine learning
-<center><img src="/images/research4.png" width="50%" height="50%"></center>
+<center><img src="/images/research4.png" width="100%" height="100%"></center>
 
 
 <br/>
