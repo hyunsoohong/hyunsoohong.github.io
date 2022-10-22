@@ -129,3 +129,7 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 - **Hyunsoo Hong**, Seong Su Kim*, “변형율 센싱이 가능한 복합재료 발목 스프링을 이용한 달리기 운동에 따른 지면 반력 도출”, 2022년 한국정밀공학회 춘계학술대회, 2022. 05.
 
 - **Hyunsoo Hong**, Seong Su Kim*, “자체 변형 센싱이 가능한 정전 용량 기반 유전체 폼 코어 샌드위치 복합재료 구조”, 2022년 기계학회 춘계학술대회, 2022. 06.
+
+- **Hyunsoo Hong**, Kwang Il Jeong, Seung Yoon On, Seong Su Kim*, “강화 학습을 통한  아치 구조의 복합소재 진동 저감 마운트 구조 최적 설계”, 2022년 한국정밀공학회 추계학술대회, 2022. 10.
+
+- **Hyunsoo Hong**, Kwang Il Jeong, Seung Yoon On, Seong Su Kim*, “강화 학습을 통한  아치 구조의 복합소재 진동 저감 마운트 구조 최적 설계”, 2022년 한국정밀공학회 추계학술대회, 2022. 10.
