@@ -132,4 +132,7 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 
 - **Hyunsoo Hong**, Kwang Il Jeong, Seung Yoon On, Seong Su Kim*, “강화 학습을 통한  아치 구조의 복합소재 진동 저감 마운트 구조 최적 설계”, 2022년 한국정밀공학회 추계학술대회, 2022. 10.
 
-- Hyeonseong Jo, Sangyoon Bae, **Hyunsoo Hong**, Seong Su Kim*, “들로네 셀 기반 섬유강화 복합재료 대표체적요소의 전기-유체 유사성 솔버를 활용한 횡방향 투수계수 예측 모델”, 2022년 한국정밀공학회 추계학술대회, 2022. 10. 
+- Hyeonseong Jo, Sangyoon Bae, **Hyunsoo Hong**, Seong Su Kim*, “들로네 셀 기반 섬유강화 복합재료 대표체적요소의 전기-유체 유사성 솔버를 활용한 횡방향 투수계수 예측 모델”, 2022년 한국정밀공학회 추계학술대회, 2022. 10.
+
+- **Hyunsoo Hong**, Kwang Il Jeong, Seung Yoon On, Seong Su Kim*, “DQN 강화 학습을 이용한 고하중 지지용 복합소재 진동 저감 마운트 최적 설계”, 2022년 한국복합재료학회 추계학술대회, 2022. 11.
+
