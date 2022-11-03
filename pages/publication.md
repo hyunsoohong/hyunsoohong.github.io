@@ -46,6 +46,8 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 - Tae-Chang Ahn, **Hyunsoo Hong**, Seong Su Kim, Hui-Yun Hwang*, “Improvement of adhesion characteristics of copper electrodes on polyvinylidene fluoride films using bovine serum albumin”, International Journal of Adhesion and Adhesives, 2022,103025
 
 - **Hyunsoo Hong**, Muhammad Salman Sarfraz, Mingoo Jeong, Taeyeon Kim, Jungrak Choi, Kyongchul Kong, Inkyu Park, Seong Su Kim*, “Prediction of ground reaction forces using the artificial neural network from capacitive self-sensing values of composite ankle springs for exo-robots”, Composite Structures, 2022, 116233
+
+- Wonvin Kim, Su Hyun Lim, **Hyunsoo Hong**, Kwang Il Jeong, Seung Yoon On, Seong Yeon Park, Jun Il You, Seong Su Kim*, “Optimum boundaries for maximum load-carrying capacity in water-lubricated composite journal bearings incorporating turbulences and inertial effects based on elastohydrodynamic analysis”, Journal of Computational Design and Engineering, 2022
   
   
 #### Domestic
