@@ -138,3 +138,5 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 
 - **Hyunsoo Hong**, Kwang Il Jeong, Seung Yoon On, Seong Su Kim*, “DQN 강화 학습을 이용한 고하중 지지용 복합소재 진동 저감 마운트 최적 설계”, 2022년 한국복합재료학회 추계학술대회, 2022. 11.
 
+- **Hyunsoo Hong**, Kwang Il Jeong, Seung Yoon On, Seong Su Kim*, “강화 학습 기반의 머신러닝 모델을 이용한 고하중 지지 능력을 가지는 에폭시/고무 복합재료 진동 저감기 최적 설계”, 2022년 기계학회 추계학술대회, 2022. 11.
+
