@@ -87,7 +87,10 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 
 - 김성수, 정광일, 정재문, **홍현수**, 임수현, "압축 강성 구배를 가지는 바나듐 레독스 흐름 전지용 다공성 전극 및 제조방법", 국내 특허 출원 번호 10-2022-0029665, 2022
 <br>(Seong Su Kim, Kwang Il Jeong, Jae-Moon Jeong, **Hyunsoo Hong**, Su Hyun Lim, “Porous electrodes for vanadium redox flow battery with gradient in compressive stiffness and manufacturing thereof”, Korea Patent Pending No. 10-2022-0089186, 2022)
-  
+
+- 김성수, **홍현수**, 정광일, 온승윤, 조현성, 김원빈, "방진 구조체 및 이의 제조 방법", 국내 특허 출원 번호 10-2022-0167874, 2022
+<br>(Seong Su Kim, **Hyunsoo Hong**, Kwang Il Jeong, Seung Yoon On, Jo Hyeonseong, Won vin Kim, “ANTI-VIBRATION STRUCTURE AND MANUFACTURING METHOD THEREOF”, Korea Patent Pending No. 10-2022-0167874, 2022)
+
   
 
 <br>
