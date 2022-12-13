@@ -58,6 +58,11 @@ tags:
 <center><img src="/images/2021_KSCM_fall.jpg" width="60%" height="60%"></center>
 <br>
 
+- "DQN 강화 학습을 이용한 고하중 지지용 복합소재 진동 저감 마운트 최적 설계" - 우수 발표 논문상, **홍현수**, 정광일, 온승윤, 김성수, 2022년도 한국복합재료학회 추계학술대회
+<br>(“Design optimization of composite vibration reduction mount for high load support using DQN reinforcement learning” – Best paper award, **Hyunsoo Hong**, Kwang Il Jeong, Seung Yoon On, and Seong Su Kim, the Korean Society for composite materials (KSCM) fall conference, 2022.)
+<center><img src="/images/2021_KSCM_fall.jpg" width="60%" height="60%"></center>
+<br>
+
 
 <br>
 
