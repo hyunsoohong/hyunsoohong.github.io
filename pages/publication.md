@@ -56,6 +56,8 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 
 - **홍현수**, 김성수, "용매 증발 과정 중 마이크로웨이브 처리가 PVDF 복합재료 필름의 결정화 형태에 미치는 영향." Composites Research 33.1 (2020): 19-24.
 <br>(**Hyunsoo Hong** and Seong Su Kim*, “Effect of Microwave Irradiation on Conformation of Crystalline of PVDF Nano-composite Film in the Solvent Evaporation Process”, Composites Research, 2019; 33(1): 19-24)
+- **홍현수**, 김원기, 전도윤, 김성수, "합성곱 신경망 기반의 딥러닝을 이용한 섬유 강화 복합재료의 적층 각도 예측." Composites Research 36.1 (2023): 48-52.
+<br>(**Hyunsoo Hong** Wonki Kim, Doyun Jeon, Kwanho Lee, and Seong Su Kim*, “Prediction of Stacking Angles of Fiber-reinforced Composite Materials Using Deep Learning Based on Convolutional Neural Networks”, Composites Research, 2023; 36(1): 48-52)
 
 
 
