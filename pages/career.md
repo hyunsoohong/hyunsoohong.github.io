@@ -72,3 +72,5 @@ tags:
 
 - Exchange student program, Technical University of Denmark (DTU), Denmark, 2017.09. - 2017.12.
 
+- Visiting research student, Nanyang Technological University (NTU), Singapore, 2023.03. - 2023.06.
+
