@@ -58,7 +58,10 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 <br>(**Hyunsoo Hong** and Seong Su Kim*, “Effect of Microwave Irradiation on Conformation of Crystalline of PVDF Nano-composite Film in the Solvent Evaporation Process”, Composites Research, 2019; 33(1): 19-24)
 
 - **홍현수**, 김원기, 전도윤, 김성수, "합성곱 신경망 기반의 딥러닝을 이용한 섬유 강화 복합재료의 적층 각도 예측." Composites Research 36.1 (2023): 48-52.
-<br>(**Hyunsoo Hong** Wonki Kim, Doyun Jeon, Kwanho Lee, and Seong Su Kim*, “Prediction of Stacking Angles of Fiber-reinforced Composite Materials Using Deep Learning Based on Convolutional Neural Networks”, Composites Research, 2023; 36(1): 48-52)
+<br>(**Hyunsoo Hong**, Wonki Kim, Doyun Jeon, Kwanho Lee, and Seong Su Kim*, “Prediction of Stacking Angles of Fiber-reinforced Composite Materials Using Deep Learning Based on Convolutional Neural Networks”, Composites Research, 2023; 36(1): 48-52)
+
+- **홍현수**, 정광일, 김원빈, 조현성, 온승윤, 정재문, 김성수, "외골격 로봇을 위한 마찰전기 기반의 자체 에너지 하베스팅이 가능한 복합재료 스프링." 대한기계학회 논문집 A 권 47.5 (2023): 465-469.
+<br>(**Hyunsoo Hong**, Kwang Il Jeong, Wonvin Kim, Hyeonseong Jo, Seung Yoon On, Jae-moon Jeong, Seong Su Kim*, "Multifunctional Composite Spring Capable of Self-Energy Harvesting Based on Triboelectricity for Exoskeleton Robots", Transactions of the Korean Society of Mechanical Engineers, 2023, A,47(5),465-469.)
 
 
 
