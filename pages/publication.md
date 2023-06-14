@@ -50,6 +50,8 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 - Wonvin Kim, Su Hyun Lim, **Hyunsoo Hong**, Kwang Il Jeong, Seung Yoon On, Seong Yeon Park, Jun Il You, Seong Su Kim*, “Optimum boundaries for maximum load-carrying capacity in water-lubricated composite journal bearings incorporating turbulences and inertial effects based on elastohydrodynamic analysis”, Journal of Computational Design and Engineering, 2022
 
 - Seung Yoon On, Hyemi Moon, Seong Yeon Park, Tae Woong Ohm, Wonvin Kim, **Hyunsoo Hong**, and Seong Su Kim. "Design of periodic arched structures integrating the structural nonlinearity and band gap effect for vibration isolation." Materials & Design, 2022, 111397
+
+- Muhammad Salman Sarfraz, **Hyunsoo Hong**, and Seong Su Kim. "Lightweight thermoplastic coated soft magnetic composites (SMC) and application for high-efficiency brushless DC motors." Composite Structures (2023): 117195.
   
   
 #### Domestic
