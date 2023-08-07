@@ -122,7 +122,9 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 
 - **Hyunsoo Hong** and Seong Su Kim, “Composite spring capable of self-energy harvesting based on triboelectricity for exo-robots”, The 20th European Conference on Composite Materials – ECCM20, Lausanne, Switzerland, 2022.06.
 
-- **Hyunsoo Hong**, Woe Tae Kim,and Seong Su Kim, “A CFRP/GFRP hybrid composite support for double-wall LNG pipe system”, 25th International Conference on Composite Structures – ICCS25, Porto, Portugal, 2022.07.
+- **Hyunsoo Hong**, Woe Tae Kim, and Seong Su Kim, “A CFRP/GFRP hybrid composite support for double-wall LNG pipe system”, 25th International Conference on Composite Structures – ICCS25, Porto, Portugal, 2022.07.
+  
+- **Hyunsoo Hong**, Kwang Il Jeong, Won Ki Kim, M.A. Raja, and Seong Su Kim, “Vibrational Isolator of quasi-zero stiffness metamaterials with high loading-carrying capacity and self-sensing”, 2023 International Conference on Composite Materials – ICCS23, Belfast, United Kingdom, 2023.08.
   
   
 #### Domestic
