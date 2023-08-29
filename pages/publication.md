@@ -52,6 +52,8 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 - Seung Yoon On, Hyemi Moon, Seong Yeon Park, Tae Woong Ohm, Wonvin Kim, **Hyunsoo Hong**, and Seong Su Kim. "Design of periodic arched structures integrating the structural nonlinearity and band gap effect for vibration isolation." Materials & Design, 2022, 111397
 
 - Muhammad Salman Sarfraz, **Hyunsoo Hong**, and Seong Su Kim. "Lightweight thermoplastic coated soft magnetic composites (SMC) and application for high-efficiency brushless DC motors." Composite Structures (2023): 117195.
+
+- **Hyunsoo Hong**, Kwang Il Jeong, Seung Yoon On, Wonvin Kim, and Seong Su Kim*, “Structural optimization of an arch-structured epoxy/rubber composite vibration isolator using deep Q-value neural network reinforcement learning”, Composite Structures (2023): 117506.
   
   
 #### Domestic
