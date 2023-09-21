@@ -54,6 +54,8 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 - Muhammad Salman Sarfraz, **Hyunsoo Hong**, and Seong Su Kim. "Lightweight thermoplastic coated soft magnetic composites (SMC) and application for high-efficiency brushless DC motors." Composite Structures (2023): 117195.
 
 - **Hyunsoo Hong**, Kwang Il Jeong, Seung Yoon On, Wonvin Kim, and Seong Su Kim*, “Structural optimization of an arch-structured epoxy/rubber composite vibration isolator using deep Q-value neural network reinforcement learning”, Composite Structures (2023): 117506.
+
+- Jeong, Kwang Il, Su Hyun Lim, **Hyunsoo Hong**, Jae-Moon Jeong, Won Vin Kim, and Seong Su Kim. "Enhancing Vanadium redox flow batteries performance through local compression ratio adjustment using stiffness gradient carbon felt electrodes." Applied Materials Today 35 (2023): 101928.
   
   
 #### Domestic
