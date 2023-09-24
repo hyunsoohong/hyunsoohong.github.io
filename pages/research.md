@@ -23,6 +23,14 @@ tags:
 
 <br/>
 
+## Prediction of Stacking Angles of Composite Materials Using Deep Learning Based on Convolutional Neural Networks
+<center><img src="/images/research4.png" width="100%" height="100%"></center>
+
+
+<br/>
+<br/>
+
+
 ## Design optimization of arched structured-vibration isolation with high load-carrying capacity by machine learning
 <center><img src="/images/research4.png" width="100%" height="100%"></center>
 
