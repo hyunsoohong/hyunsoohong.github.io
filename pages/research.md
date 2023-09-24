@@ -24,7 +24,7 @@ tags:
 <br/>
 
 ## Prediction of Stacking Angles of Composite Materials Using Deep Learning Based on Convolutional Neural Networks
-<center><img src="/images/research4.png" width="100%" height="100%"></center>
+<center><img src="/images/research6.png" width="100%" height="100%"></center>
 
 
 <br/>
