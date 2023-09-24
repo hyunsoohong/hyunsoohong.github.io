@@ -5,7 +5,7 @@ title: Personal Homepage of Hyunsoo Hong
 description: "Blogging on ...."
 ---
 
-<center><img src="/images/main.png" width="45%" height="45%"></center>
+<center><img src="/images/github_profile.png" width="45%" height="45%"></center>
 <br/>
 
 
