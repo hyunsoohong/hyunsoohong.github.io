@@ -159,3 +159,5 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 
 - **Hyunsoo Hong**, Kwang Il Jeong, Seung Yoon On, Seong Su Kim*, “강화 학습 기반의 머신러닝 모델을 이용한 고하중 지지 능력을 가지는 에폭시/고무 복합재료 진동 저감기 최적 설계”, 2022년 기계학회 추계학술대회, 2022. 11.
 
+- **Hyunsoo Hong**, Samuel Kim, Wonki Kim, and Seong Su Kim*, “머신러닝을 이용한 진동 저감의 준영강성 메타구조 최적설계”, 2023년 기계학회 추계학술대회, 2023.11
+
