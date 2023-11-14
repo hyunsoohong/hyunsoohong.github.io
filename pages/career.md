@@ -65,7 +65,7 @@ tags:
 
 - “진동 저감을 위한 Kirigami 기반의 준 영 강성 메타 구조” - 우수 논문상, **홍현수**, 2023년도 첨단소재기반 스마트 팩토리 글로벌인재양성 사업
 <br>(“Kirigami-inspired quasi-zero stiffness meta-structure for vibration isolation” – Best paper award, Hyunsoo Hong, BK21 FOUR Advanced Materials Based Smart Factory Fostering Global Talents for Innovative Growth Program, 2023.)
-<center><img src="/images/2023_DGU_Global.jpg" width="60%" height="60%"></center>
+<center><img src="/images/2023_DGU_Global.jpg" width="80%" height="80%"></center>
 <br>
 
 
