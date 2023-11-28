@@ -72,7 +72,7 @@ tags:
 ## Projects
 <br/>
 - 에너지 하베스팅을 위한 3차원 열전 미세 발포체와 압전 고분자 복합필름의 제조 공정 혁신에 관한 연구 (Study on the innovative manufacturing technologies of 3-dimensional thermoelectric microcellular foams and piezoelectric
-polymer composite films for energy harvesting), KAIST (도약연구(UP)사업), 2020-05-01~2021-12-31
+polymer composite films for energy harvesting), KAIST (도약연구(UP)사업), 2020.05.01 - 2021.12.31
 - 슈퍼휴먼 로봇슈트 프로젝트 (Superhuman Robot Suit Project), 한국산업기술평가관리원 (산업통상자원부), 2019.09.01 – 2021.05.31
 - LNG선용 CFRP Double pipe support 구조 및 피로해석 (Structure analysis of CFRP double pipe supports for LNG ships), 밥스 (주), 2021.09.13 - 2021.12.15
 - 미래도전국방기술 연구개발사업 (Future Challenge & R&D Project for Defense Technology), 국방과학연구소, 2019.11.21 ~ 2024.10.31
