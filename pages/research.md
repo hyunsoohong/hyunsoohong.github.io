@@ -21,6 +21,13 @@ tags:
   - "city tx"
 ---
 
+<style>
+  /* Projects 항목의 행간 조정 */
+  .projects-list {
+    line-height: 1.5; /* 원하는 행간 크기 */
+  }
+</style>
+
 <br/>
 
 ## Prediction of Stacking Angles of Composite Materials Using Deep Learning Based on Convolutional Neural Networks
