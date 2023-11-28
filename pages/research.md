@@ -68,6 +68,7 @@ tags:
 
 <br/>
 <br/>
+
 ## Projects
 <br/>
 # 에너지 하베스팅을 위한 3차원 열전 미세 발포체와 압전 고분자 복합필름의 제조 공정 혁신에 관한 연구 (Study on the innovative manufacturing technologies of 3-dimensional thermoelectric microcellular foams and piezoelectric
