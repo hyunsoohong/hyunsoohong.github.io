@@ -68,7 +68,7 @@ tags:
 <center><img src="/images/2023_DGU_Global.jpg" width="80%" height="80%"></center>
 <br>
 
-- “2023년 우덕 미래 장학생”, **홍현수**, 재단법인 우덕윤덕병재단
+- “2023년 우덕 미래 장학생”, **홍현수**, 재단법인 우덕윤덕병재단 [뉴스 기사](https://www.donga.com/news/Economy/article/all/20231130/122424731/1)
 <br>(“2023 Wooduk Future Scholarship Student”, Hyunsoo Hong, Wooduk Yun-Deok Byung Foundation)
 <center><img src="/images/2023_hy_scholarship.jpg" width="60%" height="60%"></center>
 <br>
