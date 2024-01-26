@@ -88,8 +88,8 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 - 김명석,강정욱, 박종혁, 장민규, **홍현수**, 최성주, "스택형 필터 모듈화 공기청정기", 국내 특허 출원 번호 10-2018-0013028, 2018
 <br>(Myung Suk Kim, Jeong Uk Kang, Jong Hyuk Park, Min Gyu Jang, **Hyunsoo Hong**, Sung Ju Choi, "Stack type filter modular air cleaner", Korea Patent Pending No. 10-2018-0013028, 2018)
 
-- 김성수, **홍현수**, Muhammad Salman Sarfraz, 온승윤, 정재문, "굽힘 변형 측정이 가능한 센서 일체형 폼 코어 샌드위치 복합재료 스프링", 국내 특허 출원 번호 10-2021-0048882, 2021
-<br>(Seong Su Kim, **Hyunsoo Hong**, Muhammad Salman Sarfraz, Seung Yoon On, Jae Moon Jeong, “Sensor-integrated foam core sandwich composite spring capable of measuring bending deformation”, Korea Patent Pending No. 10-2021-0048882, 2021)
+- 김성수, **홍현수**, Muhammad Salman Sarfraz, 온승윤, 정재문, "굽힘 변형 측정이 가능한 센서 일체형 폼 코어 샌드위치 복합재료 스프링", 국내 특허 등록 번호 10-2624982 (출원 번호 10-2021-0048882, 2021)
+<br>(Seong Su Kim, **Hyunsoo Hong**, Muhammad Salman Sarfraz, Seung Yoon On, Jae Moon Jeong, “Sensor-integrated foam core sandwich composite spring capable of measuring bending deformation”, Korea Patent Registered No. 10-2624982 (Pending No. 10-2021-0048882, 2021))
 
 - 김성수, **홍현수**, Muhammad Salman Sarfraz, 김원빈, "마찰전기 기반 에너지 하베스팅 소재, 이를 포함하는 스프링 및 그 제조방법", 국내 특허 출원 번호 10-2021-0095712, 2021
 <br>(Seong Su Kim, **Hyunsoo Hong**, Muhammad Salman Sarfraz, Won vin Kim, “Composite spring capable of self-triboelectric energy harvesting”, Korea Patent Pending No. 10-2021-0095712, 2021)
