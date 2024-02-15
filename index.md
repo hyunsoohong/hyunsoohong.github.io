@@ -4,6 +4,7 @@ permalink: index.html
 title: Personal Homepage of Hyunsoo Hong
 description: "Blogging on ...."
 ---
+  <link href="assets/img/hong2.png" rel="icon">
   <link href="assets/img/hong.png" rel="apple-touch-icon">
 <center><img src="/images/github_profile.png" width="45%" height="45%"></center>
 <br/>
