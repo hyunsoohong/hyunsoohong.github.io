@@ -58,6 +58,9 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 - Jeong, Kwang Il, Su Hyun Lim, **Hyunsoo Hong**, Jae-Moon Jeong, Won Vin Kim, and Seong Su Kim. "Enhancing Vanadium redox flow batteries performance through local compression ratio adjustment using stiffness gradient carbon felt electrodes." Applied Materials Today 35 (2023): 101928.
   
 - Hyeonseong Jo, Sangyoon Bae, **Hyunsoo Hong**, Wonvin Kim, and Seong Su Kim. "Prediction of transverse permeability in representative volume elements with closely arranged fibers through the application of Delaunay-triangulation and electrical-circuit analogy." Composite Structures (2024): 117984.
+
+- **Hyunsoo Hong**, Wonki Kim, Wonvin Kim, Jae-moon Jeong, Samuel Kim, and Seong Su Kim. "Machine Learning-Driven Design Optimization of Buckling-Induced Quasi-Zero Stiffness Metastructures for Low-Frequency Vibration Isolation." ACS Applied Materials & Interfaces (2024).
+  
   
   
 #### Domestic
