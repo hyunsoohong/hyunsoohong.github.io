@@ -168,3 +168,5 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 
 - **Hyunsoo Hong**, Samuel Kim, Wonki Kim, and Seong Su Kim*, “머신러닝을 이용한 진동 저감의 준영강성 메타구조 최적설계”, 2023년 기계학회 추계학술대회, 2023.11
 
+- **Hyunsoo Hong**, Wonki Kim, and Seong Su Kim*, “복합재료 압력용기 거동 예측을 위한 심층 전이 학습 모델 개발”, 2024년 한국복합재료학회 춘계학술대회, 2024. 04.
+
