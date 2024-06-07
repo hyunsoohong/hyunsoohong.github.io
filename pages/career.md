@@ -80,7 +80,7 @@ tags:
 
 - "복합재료 압력용기 거동 예측을 위한 심층 전이 학습 모델 개발" - 우수 발표 논문상, **홍현수**, 김원기, 김성수, 2024년도 한국복합재료학회 춘계학술대회
 <br>(“Deep Transfer Learning for Predicting Composite Pressure Vessel Behaviors” – Best paper award, **Hyunsoo Hong**, Wonki Kim, and Seong Su Kim, the Korean Society for composite materials (KSCM) spring conference, 2024.)
-<center><img src="/images/2022_KSCM_fall.jpg" width="60%" height="60%"></center>
+<center><img src="/images/2024_KSCM_spring.jpg" width="60%" height="60%"></center>
 <br>
 
 <br>
