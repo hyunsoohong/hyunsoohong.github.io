@@ -28,7 +28,7 @@ tags:
 
 - B.S. in Mechanical Engineering, KAIST (2013.03. ~ 2018.02.)
 - M.S. in Mechanical Engineering, KAIST (2018.03. ~ 2020.02.)
-- Ph.D. in Mechanical Engineering, KAIST (2020.03. ~ Present)
+- Ph.D. in Mechanical Engineering, KAIST (2020.03. ~ 2024.08.)
   
   
   
