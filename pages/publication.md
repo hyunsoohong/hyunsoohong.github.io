@@ -117,6 +117,10 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 - 김성수, **홍현수**, 정광일, 온승윤, 조현성, 김원빈, "방진 구조체 및 이의 제조 방법", 국내 특허 출원 번호 10-2022-0167874, 2022
 <br>(Seong Su Kim, **Hyunsoo Hong**, Kwang Il Jeong, Seung Yoon On, Jo Hyeonseong, Won vin Kim, “ANTI-VIBRATION STRUCTURE AND MANUFACTURING METHOD THEREOF”, Korea Patent Pending No. 10-2022-0167874, 2022)
 
+- 김성수, **홍현수**, 김사무엘, 김원빈, 김원기, "이중 안정 특성을 갖는 메타 구조체 및 이의 제조 방법", 국내 특허 출원 번호 10-2024-0173813, 2024
+<br>(Seong Su Kim, **Hyunsoo Hong**, Samuel Kim, Wonvin Kim, Wonki Kim, “Bi-stable meta-structure and method for manufacturing
+the same”, Korea Patent Pending No. 10-2024-0173813, 2024)
+
   
 
 <br>
