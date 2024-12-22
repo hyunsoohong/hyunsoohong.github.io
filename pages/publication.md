@@ -56,11 +56,14 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 - **Hyunsoo Hong**, Kwang Il Jeong, Seung Yoon On, Wonvin Kim, and Seong Su Kim*, “Structural optimization of an arch-structured epoxy/rubber composite vibration isolator using deep Q-value neural network reinforcement learning”, Composite Structures (2023): 117506.
 
 - Jeong, Kwang Il, Su Hyun Lim, **Hyunsoo Hong**, Jae-Moon Jeong, Won Vin Kim, and Seong Su Kim. "Enhancing Vanadium redox flow batteries performance through local compression ratio adjustment using stiffness gradient carbon felt electrodes." Applied Materials Today 35 (2023): 101928.
-  
-- Hyeonseong Jo, Sangyoon Bae, **Hyunsoo Hong**, Wonvin Kim, and Seong Su Kim. "Prediction of transverse permeability in representative volume elements with closely arranged fibers through the application of Delaunay-triangulation and electrical-circuit analogy." Composite Structures (2024): 117984.
 
 - **Hyunsoo Hong**, Wonki Kim, Wonvin Kim, Jae-moon Jeong, Samuel Kim, and Seong Su Kim. "Machine Learning-Driven Design Optimization of Buckling-Induced Quasi-Zero Stiffness Metastructures for Low-Frequency Vibration Isolation." ACS Applied Materials & Interfaces (2024).
-  
+
+- Hyeonseong Jo, Sangyoon Bae, **Hyunsoo Hong**, Wonvin Kim, and Seong Su Kim. "Prediction of transverse permeability in representative volume elements with closely arranged fibers through the application of Delaunay-triangulation and electrical-circuit analogy." Composite Structures (2024): 117984.
+
+- **Hyunsoo Hong**, Wonki Kim, Samuel Kim, Kwanho Lee, and Seong Su Kim. "Deep transfer learning for efficient and accurate prediction of composite pressure vessel behaviors." Composites Part A: Applied Science and Manufacturing (2024): 108413.
+
+- Wonvin Kim, Su Hyun Lim, **Hyunsoo Hong**, Dajeong Kang, Wonki Kim, Seung Yoon On, Haeun Lee, Sangyoon Bae, and Seong Su Kim. "Exploring turbulence and elastic deformation: Novel insights into dynamic instability in water-lubricated composite journal bearings for hub-type rim-driven thrusters." Firction (2024).
   
   
 #### Domestic
@@ -76,6 +79,10 @@ They can be also found from [Google Scholar](https://scholar.google.com/citation
 
 - Mohamad A. Raja, 임수현, 전도윤, **홍현수**, 양인영, 김산하, 김성수, "An investigation of interfacial strength in epoxy-based solid polymer electrolytes for structural composite batteries." Composites Research 36.6 (2023): 416-421
 <br>(Mohamad A. Raja, Su Hyun Lim, Doyun Jeon, **Hyunsoo Hong**, Inyeong Yang, Sanha Kim, Seong Su Kim*, “An investigation of interfacial strength in epoxy-based solid polymer electrolytes for structural composite batteries” Composites Research, 2023; 36(6): 416-421)
+
+- **홍현수**, 김사무엘, 김원빈, 김원기, 정재문, 김성수, "저주파 진동 저감을 위한 키리가미 구조 영감의 복합재료 메타구조." Composites Research 37.4 (2024): 291-295. <br>(**Hyunsoo Hong**, Samuel Kim, Wonvin Kim, Wonki Kim, Jae-moon Jeong, and Seong Su Kim*, “Kirigami-inspired Composite Metastructure for Low-frequency Vibration Reduction”, Composites Research 37.4 (2024): 291-295)
+
+- 정재문, Jingyao Dai, Luiz Acauan, **홍현수**, Brian L. Wardle, 김성수, "Knocking Down 공정을 통한 신개념 수평 정렬 탄소나노튜브 나노복합재료의 제작 및 특성 평가." Composites Research 37.5 (2024): 369-374. <br> (Jae-Moon Jeong, Jingyao Dai, Luiz Acauan, Hyunsoo Hong, Brian L. Wardle, and Seong Su Kim. "Fabrication and Characterization of Horizontally Aligned CNT Nanocomposites via Knocking Down Process" Composites Research 37.5 (2024): 369-374. <br>)
 
 
 <br>
