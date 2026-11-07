@@ -1,0 +1,28 @@
+html { scrollbar-gutter: stable; container-type: inline-size; }
+body { padding-top: 24px; }
+body > header {
+  margin: 0;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(772px, calc(100cqw - 40px));
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+  padding: 0 0 18px;
+  border-bottom: 1px solid #ddd;
+  font: 16px/1.65 -apple-system, BlinkMacSystemFont, Arial, sans-serif;
+}
+header > nav { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; font: inherit; }
+header > nav a { padding: 4px; border-radius: 4px; font-weight: 400; text-decoration: none; color: #292c31; }
+header > nav a[aria-current] { font-weight: 400; text-decoration: underline; text-underline-offset: 4px; }
+header > nav a:is(:hover,:focus-visible) { color: #3557dc; background: #edf1ff; }
+@media (max-width: 600px) {
+  body > header { flex-direction: column; align-items: flex-start; }
+  header > nav { font-size: 14px; gap: 4px; }
+}
+
+/* Long publication URLs must wrap inside narrow article layouts. */
+main a { overflow-wrap: anywhere; }
